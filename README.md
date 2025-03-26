@@ -115,7 +115,9 @@ void IRPAIR()
 ```
 
 ## OUTPUT
-![WhatsApp Image 2025-03-26 at 11 45 59_4fda1c0f](https://github.com/user-attachments/assets/b42e242e-e786-47ce-b42a-5f410bc78cd6)
+![WhatsApp Image 2025-03-26 at 11 45 59_a793b0f0](https://github.com/user-attachments/assets/baf025c7-a13c-4d11-96be-cd9b148dae3f)
+
+![WhatsApp Image 2025-03-26 at 11 49 30_1f748d76](https://github.com/user-attachments/assets/7668f3d4-a536-4479-9110-b6dad12afe0a)
 
 
 ## Result
